@@ -1,0 +1,8 @@
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.deps.json
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.json
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.runtimeconfig.dev.json
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.dll
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator\bin\Debug\netcoreapp1.1\Calculator.pdb
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.AssemblyInfo.cs
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.dll
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator\obj\Debug\netcoreapp1.1\Calculator.pdb

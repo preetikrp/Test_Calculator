@@ -1,0 +1,13 @@
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator.Tests\bin\Debug\netcoreapp1.1\Calculator.Tests.deps.json
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator.Tests\bin\Debug\netcoreapp1.1\Calculator.Tests.runtimeconfig.json
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator.Tests\bin\Debug\netcoreapp1.1\Calculator.Tests.runtimeconfig.dev.json
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator.Tests\obj\Debug\netcoreapp1.1\Calculator.Tests.AssemblyInfo.cs
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator.Tests\bin\Debug\netcoreapp1.1\Calculator.Tests.dll
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator.Tests\bin\Debug\netcoreapp1.1\Calculator.Tests.pdb
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator.Tests\bin\Debug\netcoreapp1.1\Calculator.dll
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator.Tests\bin\Debug\netcoreapp1.1\Calculator.pdb
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator.Tests\obj\Debug\netcoreapp1.1\Calculator.Tests.dll
+C:\Users\preet\workspace\csharp\exercises\calculator\Calculator.Tests\obj\Debug\netcoreapp1.1\Calculator.Tests.pdb
